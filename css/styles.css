@@ -4,8 +4,9 @@ body {
   font-family: 'Roboto', sans-serif; font-szie: 18px;
 }
 
-.uppercase {
+.uppercase-large {
   text-transform: uppercase;
+  font-size: 38px;
 }
 
 .center-600 {
