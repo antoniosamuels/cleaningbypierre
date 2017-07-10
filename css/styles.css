@@ -4,6 +4,11 @@ body {
   font-family: 'Roboto', sans-serif; font-szie: 18px;
 }
 
+a {
+  color: #00B3D1;
+  text-decoration: underline;
+}
+
 .spacer {
   margin: 0 40px 0;
 }
