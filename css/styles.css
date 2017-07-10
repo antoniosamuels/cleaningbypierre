@@ -4,6 +4,10 @@ body {
   font-family: 'Roboto', sans-serif; font-szie: 18px;
 }
 
+.uppercase {
+  text-transform: uppercase:
+}
+
 .center-600 {
   margin: 0 auto;
   text-align: center;
