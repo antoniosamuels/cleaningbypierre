@@ -5,6 +5,7 @@ body {
 
 .center-600 {
   margin: 0 auto;
+  text-align: center;
 }
 
 .white-text {
