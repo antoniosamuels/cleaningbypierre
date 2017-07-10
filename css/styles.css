@@ -3,6 +3,10 @@ body {
   margin: 0px;
 }
 
+center-600 {
+  margin: 0 auto;
+}
+
 .white-text {
   color: #fff;
 }
